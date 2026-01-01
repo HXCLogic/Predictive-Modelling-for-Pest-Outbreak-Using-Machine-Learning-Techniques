@@ -16,11 +16,8 @@ The project uses a multi-year rice pest monitoring dataset (ICAR-CRIDA) and seve
   - LSTM sequence model for a single pest–location series  
   - Model evaluation, cross-validation, feature importance, and plots  
 
-- `data/`  
-  Folder containing the curated rice pest dataset used in the notebook (e.g. `RICE.csv`).  
-
-- `docs/` (optional, if present)  
-  May include the dissertation PDF, pseudo-code (Appendix A), and any additional documentation or figures.
+- `RICE.csv`  
+  CSV file containing the curated rice pest dataset used in the notebook
 
 ## Purpose
 
